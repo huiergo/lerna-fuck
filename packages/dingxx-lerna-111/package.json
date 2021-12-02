@@ -1,0 +1,16 @@
+{
+  "name": "dingxx-lerna-111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "leixx-lerna-222": "^1.0.0"
+  }
+}
