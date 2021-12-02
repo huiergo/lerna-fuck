@@ -12,5 +12,6 @@
   "dependencies": {
     "axios": "^0.24.0",
     "leixx-lerna-222": "^1.0.0"
-  }
+  },
+  "gitHead": "e7ec65312dc88fe31b7fe6edc31d406621df50ad"
 }
